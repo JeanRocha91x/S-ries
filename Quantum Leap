@@ -3,3 +3,9 @@
 ############## SÉRIE #################  
 #EXTINF:-1 tvg-id="iddocanaldeserie" group-title="Série" tvg-name="2.Temporada" tvg-logo="https://i.topflix.fm/testme/dle2/posts/2023-12/4uEy8VdTqtfnLGvgCkooow7btLf.jpg",Epsódio 1
 https://alukard.bio/a1/out/5/3699/3699_quantum.leap.2022.s02e01.720p.web.x265-minx-1.m3u8?a=1
+
+#EXTINF:-1 tvg-id="iddocanaldeserie" group-title="Série" tvg-name="2.Temporada" tvg-logo="https://i.topflix.fm/testme/dle2/posts/2023-12/4uEy8VdTqtfnLGvgCkooow7btLf.jpg",Epsódio 2
+https://alukard.bio/a1/out/6/3699/3699_quantum.leap.2022.s02e02.720p.hdtv.x265-minx.m3u8?a=1
+
+#EXTINF:-1 tvg-id="iddocanaldeserie" group-title="Série" tvg-name="2.Temporada" tvg-logo="https://i.topflix.fm/testme/dle2/posts/2023-12/4uEy8VdTqtfnLGvgCkooow7btLf.jpg",Epsódio 3
+https://alukard.bio/a1/out/6/3699/3699_quantum.leap.2022.s02e03.720p.hdtv.x265-minx.m3u8?a=1
